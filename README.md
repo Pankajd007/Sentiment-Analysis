@@ -9,7 +9,7 @@
 
 ## Demo
 Link: [https://sentiment-analyisis.herokuapp.com/](https://sentiment-analyisis.herokuapp.com/)
-[![](/static/imgs/sentiment-analysis.png)](https://irisspeciespredictor-api.herokuapp.com/)
+[![](/static/imgs/sentiment_analysis.png)](https://irisspeciespredictor-api.herokuapp.com/)
 
 
 ## Technical Aspect
