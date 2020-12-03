@@ -1,8 +1,4 @@
 from flask import Flask, request, render_template
-import spacy
-import en_core_web_sm
-nlp = en_core_web_sm.load()
-import string
 from spacy.lang.en.stop_words import STOP_WORDS
 import pickle
 
